@@ -1,0 +1,3 @@
+﻿  ClientNPct.cpp
+D:\Study\ПСП (Экз)\laba6\ServerNP\ClientNPct\ClientNPct.cpp(17,12): warning C4101: cH: неиспользованная локальная переменная
+  ClientNPct.vcxproj -> D:\Study\ПСП (Экз)\laba6\ServerNP\x64\Debug\ClientNPct.exe

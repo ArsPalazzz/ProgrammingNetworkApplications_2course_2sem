@@ -1,0 +1,4 @@
+E:\BSTU\3_course\Security\Лабораторные работы\Лабораторная работа №7\ServerMS\x64\Debug\ServerMS.exe
+E:\Education\5semester\shiman\MyLabs\Лабораторная работа №7\ServerMS\x64\Debug\ServerMS.exe
+C:\Users\user\Desktop\MyLabs\Лабораторная работа №7\ServerMS\x64\Debug\ServerMS.exe
+D:\Study\ПСП (Экз)\laba7\ServerMS\x64\Debug\ServerMS.exe
